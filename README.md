@@ -28,7 +28,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/sumamakhan761/YouTube_Script_Generator.git
+git clone https://github.com/sumamakhan761/youtube-script-writing.git
 cd YouTube_Script_Generator
 ```
 
