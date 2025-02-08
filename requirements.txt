@@ -4,8 +4,6 @@ langchain_groq
 langchain_community
 youtube_transcript_api
 python-dotenv
-openai
-tiktoken==0.5.2
-python-dotenv==1.0.1
-duckduckgo-search==5.1.0
-langchain-openai==0.1.0
+tiktoken
+python-dotenv
+duckduckgo-search
