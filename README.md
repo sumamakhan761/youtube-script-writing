@@ -1,7 +1,6 @@
 # ❤️ YouTube Script Writing Tool
 
 ### Interact with AI to generate engaging YouTube video scripts using natural language.
----
 
 ## 📖 Description
 
