@@ -31,6 +31,7 @@ https://github.com/user-attachments/assets/ba6c0eda-7327-4f18-a56f-5fe0fe294e0f
 ```bash
 # Clone the repository
 git clone https://github.com/sumamakhan761/youtube-script-writing.git
+cd youtube-script-writing
 ```
 
 ### 💫 Install Dependencies
